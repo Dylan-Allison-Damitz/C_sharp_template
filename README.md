@@ -25,5 +25,5 @@ _A template that follows lesson 8(MSTest Configuration Quickj Reference)_
 MIT &copy; 2021 _Dylan Allison-Damitz_
 ## Contact Information :mailbox:
 
-_Dylan Allison-Damitza:
+_Dylan Allison-Damitz:
 dylandamitz@gmail.com_
