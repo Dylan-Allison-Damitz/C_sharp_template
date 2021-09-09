@@ -1,7 +1,7 @@
 # C# Template 
 
 
-#### By Gabriel Ayala
+#### By Dylan Allison-Damitz
 
 ## Technologies Used :floppy_disk:
 * _NuGet Package Manager_
@@ -14,7 +14,7 @@ _A template that follows lesson 8(MSTest Configuration Quickj Reference)_
 
 ## Setup/Installation Requirements :triangular_ruler:
 
-* _Clone github repo: https://github.com/Gabeaya/C--Template.git_
+* _Clone github repo: https://github.com/Dylan-Allison-Damitz/C_sharp_template.git_
 * _Navigate the directory: (cd top name directory)_
 * _Open in Vs code: code ._
 * _Navigate to the ProjectName.Tests within the terminal: cd ProjectName.Tests_
@@ -22,8 +22,8 @@ _A template that follows lesson 8(MSTest Configuration Quickj Reference)_
 * _The line above will create your obj directories._
 
 ## License :clipboard:
-MIT &copy; 2021 _Gabriel Ayala_
+MIT &copy; 2021 _Dylan Allison-Damitz_
 ## Contact Information :mailbox:
 
-_Gabriel Ayala:
-gabeayala100@gmail.com_
+_Dylan Allison-Damitza:
+dylandamitz@gmail.com_
